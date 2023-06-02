@@ -215,7 +215,7 @@
   }
   
   /* **** 移动端样式 ***** */
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 100%) {
     body:has(#anMusic-page) #rightside {
       display: none;
     }
