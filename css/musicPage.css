@@ -215,7 +215,7 @@
   }
   
   /* **** 移动端样式 ***** */
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 600px) {
     body:has(#anMusic-page) #rightside {
       display: none;
     }
@@ -303,7 +303,7 @@
     }
     /* 控制按键和进度条 */
     #anMusic-page .aplayer-info .aplayer-controller {
-      width: 50%;
+      width: 100%;
       bottom: 100px;
     }
     #anMusic-page .aplayer-info .aplayer-controller .aplayer-bar-wrap {
