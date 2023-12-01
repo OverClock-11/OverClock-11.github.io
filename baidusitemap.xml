@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.matthewishere.com/SearchTechNote/</loc>
-    <lastmod>2023-11-16</lastmod>
+    <loc>https://www.matthewishere.com/QuantumComputingRecipe-2/</loc>
+    <lastmod>2023-12-01</lastmod>
   </url>
   <url>
     <loc>https://www.matthewishere.com/QuantumComputingRecipe-1/</loc>
-    <lastmod>2023-11-09</lastmod>
+    <lastmod>2023-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.matthewishere.com/SearchTechNote/</loc>
+    <lastmod>2023-11-16</lastmod>
   </url>
   <url>
     <loc>https://www.matthewishere.com/ComputationalPhy-3/</loc>
