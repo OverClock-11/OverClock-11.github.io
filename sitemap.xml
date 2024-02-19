@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.matthewishere.com/GitSetting/</loc>
+    
+    <lastmod>2024-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.matthewishere.com/QuantumComputingRecipe-2/</loc>
     
     <lastmod>2023-12-01</lastmod>
@@ -234,6 +243,13 @@
   </url>
   
   <url>
+    <loc>https://www.matthewishere.com/tags/Github/</loc>
+    <lastmod>2024-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.matthewishere.com/tags/Movie/</loc>
     <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,13 +258,6 @@
   
   <url>
     <loc>https://www.matthewishere.com/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2024-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.matthewishere.com/tags/Github/</loc>
     <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -290,6 +299,13 @@
   </url>
   
   <url>
+    <loc>https://www.matthewishere.com/tags/Technology/</loc>
+    <lastmod>2024-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.matthewishere.com/tags/Code/</loc>
     <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -298,13 +314,6 @@
   
   <url>
     <loc>https://www.matthewishere.com/tags/Quantum/</loc>
-    <lastmod>2024-02-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.matthewishere.com/tags/Technology/</loc>
     <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -348,14 +357,14 @@
   </url>
   
   <url>
-    <loc>https://www.matthewishere.com/categories/Physics/Quantum-Mechanics/</loc>
+    <loc>https://www.matthewishere.com/categories/Technology/</loc>
     <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.matthewishere.com/categories/Technology/</loc>
+    <loc>https://www.matthewishere.com/categories/Physics/Quantum-Mechanics/</loc>
     <lastmod>2024-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
